@@ -1,0 +1,4 @@
+librosa=0.10.*
+ipython=8.29.*
+matplotlib=3.9.*
+simpleaudio=1.0.*
